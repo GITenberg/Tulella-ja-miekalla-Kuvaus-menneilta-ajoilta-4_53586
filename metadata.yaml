@@ -1,0 +1,36 @@
+_repo: Tulella-ja-miekalla-Kuvaus-menneilta-ajoilta-4_53586
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Talvio, Maila
+    alias: Mikkola, Maila Winter
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '39128'
+    url: http://www.gutenberg.org/2009/agents/39128
+creator:
+  author:
+    agent_name: Sienkiewicz, Henryk
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1052'
+    url: http://www.gutenberg.org/2009/agents/1052
+    wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
+description: Translation of Ogniem i mieczem.
+gutenberg_issued: '2016-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53586'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Poland -- History -- John II Casimir, 1648-1668 -- Fiction'
+- !lcsh 'Cossacks -- Poland -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Cossacks -- Ukraine -- Fiction'
+- GITenberg
+title: 'Tulella ja miekalla: Kuvaus menneiltä ajoilta. 4'
+url: http://www.gutenberg.org/ebooks/53586
